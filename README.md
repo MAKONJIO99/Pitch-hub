@@ -1,4 +1,4 @@
-# One Minute -Pitch Project
+# PITCH-HUB
 one minute-Pitch is an application that allows users to create  one minute pitches. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
 
 ## Author
