@@ -17,6 +17,6 @@ background_size: cover;
     font: 18px 'opensans-bold', sans-serif;
     background-color: transparent;
     border: none;
-    color:#fff;
+    color:#ffff;
     transition: background-color 1s ease 0s;
 }
