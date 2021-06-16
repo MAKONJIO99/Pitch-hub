@@ -1,7 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: maroon;
+    background-image:url('../img/bg.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
     /* background_image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(20).jpg"); */
 }
 
