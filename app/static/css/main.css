@@ -25,7 +25,7 @@ margin-top:20px;
 
 #jc {
     align-self: center;
-    background: white;
+    background: lightblue;
     width: 400px;
     height: 400px;
     cursor: ew-resize;
@@ -36,7 +36,7 @@ margin-top:20px;
 
 #jsv {
     align-self: center;
-    background: white;
+    background: lightblue;
     width: 450px;
     height: 500px;
     cursor: ew-resize;
@@ -97,10 +97,7 @@ margin-top:20px;
 }
 
 .bgimage{
-background-image:url('../assets/bg.png');
-background-size:cover;
-background-position:center;
-background-repeat:no-repeat;
+background-color: rgba(189, 77, 77, 0.26);
 z-index:1;
 padding-top:70px;
 padding-bottom:130px;

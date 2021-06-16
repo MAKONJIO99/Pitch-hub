@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:maroon;
+   
+    /* background_image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(20).jpg"); */
+}
+
+#particles-js {
+background_repeat: repeat-x;
+background_size: cover;
+}
+
+.navbar{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("../img/bg.jpg")no-repeat center center;
+    background-size: cover;
+    font: 18px 'opensans-bold', sans-serif;
+    background-color: transparent;
+    border: none;
+    color:#fff;
+    transition: background-color 1s ease 0s;
+}
