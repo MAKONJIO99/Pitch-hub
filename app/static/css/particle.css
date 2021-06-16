@@ -6,8 +6,8 @@ body {
 }
 
 #particles-js {
-background repeat: repeat-x;
-background size: cover;
+background_repeat: repeat-x;
+background_size: cover;
 }
 
 .navbar{
