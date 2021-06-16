@@ -2,7 +2,7 @@
 one minute-Pitch is an application that allows users to create  one minute pitches. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
 
 ## Author
->  Jack Owuor.
+>  MAKONJIO FRANCIS.
 
 ## Installations
 
@@ -11,7 +11,7 @@ The following command installs all the application requirements
 
 ## Setup
 Run 
-``git clone https://github.com/jn-mic/1m-Pitch.git``
+``git clone https://github.com/MAKONJIO99/pitch-hub``
 
 or download the zip file from github.
 
@@ -56,7 +56,7 @@ After extracting the files,
 >Login Inputs
 
 | Inputs |  Description |
-| Username  | Account username, ``eg Jack``|
+| Username  | Account username, ``eg MAKONJIO``|
 | Password  | Account password, ``eg Password``|
 
 >Sign-up inputs
@@ -76,8 +76,8 @@ After extracting the files,
 
 
 ## License
-> MIT License &copy; 2021 Jack  Owuor.
+> MIT License &copy; 2021 MAKONJIO  FRANCIS.
 
 ## Collaborate
-To collaborate, reach me on:[jackotienokey@gmail.com]()
+To collaborate, reach me on:[francismakonjio2@gmail.com]()
 # Pitch-hub
