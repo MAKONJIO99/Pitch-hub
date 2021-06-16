@@ -1,5 +1,5 @@
 
-export MAIL_USERNAME= 'jackotienokey@gmail.com'
+export MAIL_USERNAME= 'francismakonjio2@gmail.com'
 export MAIL_PASSWORD = 'Gn25412814'
 
 
