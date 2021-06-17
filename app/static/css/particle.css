@@ -1,7 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color:maroon;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/School_children_(Lukhanyo_Primary_School,_Zwelihle_Township_(Hermanus,_South_Africa)_b_03.jpg/1280px-School_children_(Lukhanyo_Primary_School,_Zwelihle_Township_(Hermanus,_South_Africa)_b_03.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
    
     /* background_image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(20).jpg"); */
 }
