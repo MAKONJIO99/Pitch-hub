@@ -6,8 +6,8 @@ ld()
 
 
 class Config:
-    debug = True
-    SECRET_KEY = 'qwertyuiop'
+    
+    # SECRET_KEY = 'qwertyuiop'
 
 
     #  email configurations
